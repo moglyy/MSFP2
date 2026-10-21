@@ -43,7 +43,7 @@ Palabras clave: Modelo Windkessel; Sistema cardiovascular; Controlador PID; Espa
 4. Imagen con los parámetros del controlador.
 5. Imágenes de las simulaciones \[.pdf y .png].
 6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
-7. Diagrama Biologico de BioRender\ [png].
+7. Diagrama Biologico de BioRender \[png].
 
 
 ## Referencias

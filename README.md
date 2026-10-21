@@ -44,6 +44,8 @@ Palabras clave: Modelo Windkessel; Sistema cardiovascular; Controlador PID; Espa
 5. Imágenes de las simulaciones \[.pdf y .png].
 6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
 7. Diagrama Biologico de BioRender\ [png].
+
+
 ## Referencias
 
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
